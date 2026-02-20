@@ -1,0 +1,20 @@
+object DM: TDM
+  Height = 574
+  Width = 845
+  object conexao: TFDConnection
+    Params.Strings = (
+      'Database=C:\ETEC\projetos_pam2\bdlanchonete.db'
+      'DriverID=SQLite')
+    Connected = True
+    LoginPrompt = False
+    Left = 224
+    Top = 104
+  end
+  object usuariuos: TFDQuery
+    Connection = conexao
+    SQL.Strings = (
+      'select * from usuarios')
+    Left = 224
+    Top = 192
+  end
+end

@@ -20,5 +20,5 @@ var
 implementation
 
 {$R *.fmx}
-
+ USES umodulo;
 end.

@@ -1,9 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2026/02/12 08:19:40.071,=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2026/02/12 08:21:19.942,C:\ETEC\projetos_pam2\uacesso.pas=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2026/02/12 08:21:19.942,C:\ETEC\projetos_pam2\uacesso.fmx=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
-    <Transaction>2026/02/12 08:21:28.638,C:\ETEC\projetos_pam2\lanchonete.dproj=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>2026/02/12 08:19:40.000.071,=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/02/12 08:21:19.000.942,C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\ETEC\projetos_pam2\uacesso.pas</Transaction>
+    <Transaction>2026/02/12 08:21:19.000.942,C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\ETEC\projetos_pam2\uacesso.fmx</Transaction>
+    <Transaction>2026/02/12 08:21:28.000.638,C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\ETEC\projetos_pam2\lanchonete.dproj</Transaction>
+    <Transaction>2026/02/19 23:58:52.239,=C:\ETEC\projetos_pam2\Unit1.pas</Transaction>
+    <Transaction>2026/02/19 23:59:08.984,C:\ETEC\projetos_pam2\umodulo.pas=C:\ETEC\projetos_pam2\Unit1.pas</Transaction>
+    <Transaction>2026/02/19 23:59:08.984,C:\ETEC\projetos_pam2\umodulo.dfm=C:\ETEC\projetos_pam2\Unit1.dfm</Transaction>
+    <Transaction>2026/02/20 00:00:31.087,=C:\ETEC\projetos_pam2\Unit1.pas</Transaction>
+    <Transaction>2026/02/20 00:01:55.290,C:\ETEC\projetos_pam2\uiuusuarios.pas=C:\ETEC\projetos_pam2\Unit1.pas</Transaction>
+    <Transaction>2026/02/20 00:01:55.290,C:\ETEC\projetos_pam2\uiuusuarios.fmx=C:\ETEC\projetos_pam2\Unit1.fmx</Transaction>
   </Transactions>
 </BorlandProject>
